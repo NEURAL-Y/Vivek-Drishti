@@ -3,9 +3,14 @@
 
 ---
 
-## 🖼️ Logo
+## 🖼️ Vivek Drishti
 
-![LOGO HERE]("VIVEK DRISHTI.png")
+<div align="center">
+
+<img src="assest/VIVEK DRISHTI.png" width="180"/>
+
+</div>
+
 
 ---
 
